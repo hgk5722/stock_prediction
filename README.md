@@ -1,6 +1,8 @@
 # stock_prediction
 FinanceDataReader에서 가져온 데이터를 RNN의 종류인 LSTM 모델을 이용하여 삼성전자 주가 예측 프로그램 제작
 
+<br><br>
+
 # 사용시 유의사항
 
 *main.py 파일의 Preprocessing()함수 매개변수를 수정해 주세요!
